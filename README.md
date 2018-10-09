@@ -1,0 +1,2 @@
+# appRestServerDomotica
+Rest server
